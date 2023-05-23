@@ -1,0 +1,177 @@
+{
+  "data": [
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "bombticket.com",
+      "createdAt": "2022-03-06T16:26:54Z",
+      "url": "https://bombticket.com/",
+      "description": "🔥 the website is a mediator or a broker for selling tickets and userNames in Saudi Arabia, users can buy and also put their tickets and social media accounts for sale on the website .",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "Angular",
+          "iconifyClass": "simple-icons:angular"
+        },
+        {
+          "name": "typescript",
+          "iconifyClass": "simple-icons:typescript"
+        },{
+          "name": "MySql",
+          "iconifyClass": "simple-icons:mysql"
+        },{
+          "name": "Node",
+          "iconifyClass": "simple-icons:nodejs"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG_vYHA",
+      "name": "E-commerce app",
+      "createdAt": "2022-03-13T20:41:33Z",
+      "url": "https://mern-store.onrender.com/",
+      "description": "📦The app offers features such as user authentication, product catalog management, shopping cart functionality, secure payment integration, and order tracking. It utilizes MongoDB for database management, Express.js for handling server-side logic, React for building the user interface, and Node.js for server-side development. The MERN e-commerce app aims to deliver a seamless and user-friendly shopping experience to customers.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "react",
+          "iconifyClass": "simple-icons:react"
+        },
+        {
+          "name": "typescript",
+          "iconifyClass": "simple-icons:typescript"
+        },
+        {
+          "name": "node",
+          "iconifyClass": "simple-icons:nodejs"
+        },
+        {
+          "name": "mongo db",
+          "iconifyClass": "simple-icons:mongodb"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG0_8uQ",
+      "name": "onlineshop",
+      "createdAt": "2022-02-11T14:50:20Z",
+      "url": "https://ahmed-elmrsawy-online-shop.cyclic.app/",
+      "description": "🌀 online shop usnig Node js , mongo db and EJS as a templating engine",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "node",
+          "iconifyClass": "simple-icons:nodejs"
+        },
+        
+        {
+          "name": "mongodb",
+          "iconifyClass": "simple-icons:mongodb"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOGcPKSQ",
+      "name": "mobile group Chat application",
+      "createdAt": "2021-11-26T17:56:07Z",
+      "url": "https://github.com/mrsawy/chat_real_time",
+      "description": "⚙️ React-natve group chat app used fire base for authentication and authorization & used react native elements ui for styling & used gifted chat library",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "React-Native",
+          "iconifyClass": "simple-icons:react"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "node",
+          "iconifyClass": "simple-icons:nodejs"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzMjcyMjI5Njk=",
+      "name": "Movie Blog",
+      "createdAt": "2021-01-06T06:36:41Z",
+      "url": "https://stellar-lolly-fe4b73.netlify.app/",
+      "description": "🚀 React movie blog allows creating a dynamic platform to share and review movies.• Integrated third-party APIs such as IMDB, Rotten Tomatoes, or TMDB using React to gather movie-related data and display it on the website.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }, {
+          "name": "React",
+          "iconifyClass": "simple-icons:react"
+        } ,{
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        } 
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
+      "name": "My Reads",
+      "createdAt": "2021-01-01T08:31:51Z",
+      "url": "https://celadon-jelly-3ef2a9.netlify.app/",
+      "description": "🚀  ReactJS bookshelf app to create an interactive interface to add, remove, and viewbooks (graduation project from react cross skilling platform FWD)",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }, {
+          "name": "React",
+          "iconifyClass": "simple-icons:react"
+        }
+      ]
+    }
+    
+  ]
+}
