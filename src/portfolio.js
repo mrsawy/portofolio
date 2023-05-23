@@ -7,13 +7,13 @@ const settings = {
 
 //SEO Related settings
 const seo = {
-  title: "Ashutosh's Portfolio",
+  title: "mrsawy's Portfolio",
   description:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   og: {
-    title: "Ashutosh Hathidara Portfolio",
+    title: "mrsawy Hathidara Portfolio",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    url: "http://mrsawyhathidara.com/",
   },
 };
 
@@ -32,12 +32,12 @@ const greeting = {
 
 const socialMediaLinks = [
   /* Your Social Media Link */
-  // github: "https://github.com/ashutosh1919",
-  // linkedin: "https://www.linkedin.com/in/ashutosh-hathidara-88710b138/",
-  // gmail: "ashutoshhathidara98@gmail.com",
-  // gitlab: "https://gitlab.com/ashutoshhathidara98",
+  // github: "https://github.com/mrsawy1919",
+  // linkedin: "https://www.linkedin.com/in/mrsawy-hathidara-88710b138/",
+  // gmail: "mrsawyhathidara98@gmail.com",
+  // gitlab: "https://gitlab.com/mrsawyhathidara98",
   // facebook: "https://www.facebook.com/laymanbrother.19/",
-  // twitter: "https://twitter.com/ashutosh_1919",
+  // twitter: "https://twitter.com/mrsawy_1919",
   // instagram: "https://www.instagram.com/layman_brother/"
 
   {
@@ -433,7 +433,7 @@ const competitiveSites = {
     //   style: {
     //     color: "#5B4638",
     //   },
-    //   profileLink: "https://www.codechef.com/users/ashutosh_1919",
+    //   profileLink: "https://www.codechef.com/users/mrsawy_1919",
     // },
     // {
     //   siteName: "Codeforces",
@@ -449,7 +449,7 @@ const competitiveSites = {
     //   style: {
     //     color: "#323754",
     //   },
-    //   profileLink: "https://www.hackerearth.com/@ashutosh391",
+    //   profileLink: "https://www.hackerearth.com/@mrsawy391",
     // },
     // {
     //   siteName: "Kaggle",
@@ -830,7 +830,7 @@ const contactPageData = {
     title: "Blogs",
     subtitle:
       "For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
-    link: "https://blogs.ashutoshhathidara.com/",
+    link: "https://blogs.mrsawyhathidara.com/",
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
